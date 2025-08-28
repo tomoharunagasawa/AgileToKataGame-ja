@@ -1,1 +1,5 @@
-*.en.*
+Instructions.en.md
+challenges.en.csv
+responses.en.csv
+scrum-challenges.en.csv
+scrum-responses.en.csv
