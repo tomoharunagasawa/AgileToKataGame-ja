@@ -5,8 +5,18 @@
  - Miro: https://miro.com/miroverse/agile-to-kata-improvement-game/
 
 ## 日本語翻訳版
- - Miro:
+ - Miro: https://miro.com/miroverse/agile-to-kata-jp/
  - Mural:
+
+# フィードバック・アイデア募集
+
+[Issue](https://github.com/tomoharunagasawa/AgileToKataGame-ja/issues)でお寄せください。ラベルを選んでね。
+ - 課題の追加依頼
+ - 対処の追加依頼
+ - 感想
+ - 記事
+ - ゲーム拡張アイデア
+ - 誤訳
 
 # Agile Kata Pro 
  - 公式サイト: https://agilekata.pro
